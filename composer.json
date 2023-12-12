@@ -1,0 +1,15 @@
+{
+    "name": "agu/teste-actions",
+    "autoload": {
+        "psr-4": {
+            "Agu\\TesteActions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcelo Santos",
+            "email": "marcello.santos@gmail.com"
+        }
+    ],
+    "require": {}
+}
