@@ -1,5 +1,6 @@
 {
     "name": "marcelllo/teste-actions",
+    "license": "MIT",
     "description": "projeto de teste do github actions",
     "autoload": {
         "psr-4": {
