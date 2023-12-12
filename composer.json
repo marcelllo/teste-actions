@@ -1,5 +1,6 @@
 {
-    "name": "agu/teste-actions",
+    "name": "marcelllo/teste-actions",
+    "description": "projeto de teste do github actions",
     "autoload": {
         "psr-4": {
             "Agu\\TesteActions\\": "src/"
